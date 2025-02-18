@@ -19,10 +19,20 @@ We'll evaluate submissions on the following criteria:
 1. Does it implement the features you decided to tackle?
 1. Is it easy to understand?
 
-## Instructions For Submission
 
-Please email [gabby@droplet.io](mailto:gabby@droplet.io) and [jamison@droplet.io](mailto:jamison@droplet.io) a .zip or a link to a source code repository containing your code. Include a `README.md` file with notes on how to run your code, your design thoughts, etc.
+# Droplet
 
-Please email us if anything in the instructions is confusing. We've tried to leave space for creativity and problem-solving, but we also don't want you becoming frustrated or stuck.
+*   React
+## Available Scripts
+In the project directory, you can run:
 
-Good luck!
+npm start
+Runs the app in the development mode.
+Open http://localhost:3000 to view it in your browser.
+
+The page will reload when you make changes.
+You may also see any lint errors in the console.
+
+npm test
+Launches the test runner in the interactive watch mode.
+See the section about running tests for more information.
